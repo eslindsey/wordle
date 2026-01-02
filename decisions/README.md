@@ -1,6 +1,6 @@
 # Decisions
 
-These files indicate WordleBot's preferences on guess 2, based on the starting word in the name of the file. They can be great hints if you don't want spoilers.
+These files indicate WordleBot's preferences on guess 2, based on the starting word in the name of the file. They can be great hints if you don't want spoilers. The Bot's current favorite is [SLATE](slate.md).
 
 There are two [play modes](#play-modes)  and multiple [solution lists](#solution-lists), both of which affect the Bot's selection. Notes have been added to the files where appropriate.
 
