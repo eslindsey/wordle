@@ -1,7 +1,7 @@
 # SLATE
 
 This table was assembled after the bot was "fixed" to handle LORIS-gate.
-It uses data from puzzles 60-80.
+It uses data from puzzles 59-80.
 
   Guess 1   | Easy  | Left
 ------------|-------|-----:
@@ -24,4 +24,4 @@ It uses data from puzzles 60-80.
 ⬛️⬛️⬛️🟨🟨 | TITER | 119
 ⬛️⬛️⬛️🟨⬛️ | COUNT | 102
 ⬛️⬛️⬛️⬛️🟨 | DINER |  14
-⬛️⬛️⬛️⬛️⬛️ | CRONY |
+⬛️⬛️⬛️⬛️⬛️ | CRONY | 315
