@@ -1,9 +1,9 @@
-# Starting word: SLATE
+# SLATE
 
 This table was assembled after the bot was "fixed" to handle LORIS-gate.
-It uses data from puzzles 70-80.
+It uses data from puzzles 69-80.
 
-| Guess 1     | Guess 2 | Left
+|   Guess 1   | Guess 2 | Left
 |-------------|--------|------:
 | 🟩🟩🟩🟩🟩 | N/A   |   0
 | ⬛️🟨🟨🟩🟨 | DELTA |   1
@@ -12,6 +12,7 @@ It uses data from puzzles 70-80.
 | ⬛️🟩⬛️⬛️🟨 | DEFER |  21
 | ⬛️🟩⬛️⬛️⬛️ | BIPOD |  50
 | ⬛️⬛️🟨⬛️🟩 | CORGI |  38
+| ⬛️🟨🟨⬛️⬛️ | MOLAR |  76
+| ⬛️⬛️⬛️🟨🟨 | TITER | 119
 | ⬛️⬛️⬛️🟨⬛️ | COUNT | 102
 | ⬛️⬛️⬛️⬛️🟨 | DINER |  14
-| ⬛️⬛️⬛️🟨🟨 | TITER | 119
