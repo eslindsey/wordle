@@ -1,13 +1,14 @@
 # SLATE
 
 This table was assembled after the bot was "fixed" to handle LORIS-gate.
-It uses data from puzzles 50-80.
+It uses data from puzzles 50-80, 1659.
 
   Guess 1   | Easy  | Left
 ------------|-------|-----:
 🟩🟩🟩🟩🟩 | -     |   0
 ⬛️🟩⬛️⬛️🟩 | BIPOD |  16
 🟩⬛️🟩🟨⬛️ | PRINT |  15
+🟩⬛️🟨🟨⬛️ | PRIVY |  10
 🟩🟨⬛️⬛️⬛️ | CHILL |  19
 🟩⬛️⬛️🟨⬛️ | PINOT |  43
 🟩⬛️⬛️⬛️🟨 | HIRED |  38
