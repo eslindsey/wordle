@@ -36,5 +36,5 @@ It uses data from puzzles 38-80, 1659-1661.
 ⬛️🟨⬛️⬛️⬛️ | DILLY | 106
 ⬛️⬛️🟨⬛️⬛️ | CORNY | 202
 ⬛️⬛️⬛️🟨⬛️ | COUNT | 102
-⬛️⬛️⬛️⬛️🟨 | DINER |  14
+⬛️⬛️⬛️⬛️🟨 | DINER | 329
 ⬛️⬛️⬛️⬛️⬛️ | CRONY | 315
