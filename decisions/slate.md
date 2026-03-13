@@ -1,9 +1,9 @@
 # SLATE
 
 This table was assembled after the bot was "fixed" to handle LORIS-gate.
-It uses data from puzzles 38-80, 1659-1727.
+It uses data from puzzles 38-80, 1659-1728.
 
-  Guess 1   | Easy  | Left
+Guess 1   | Easy  | Left
 ------------|-------|-----:
 🟩🟩🟩🟩🟩 | -     |   0
 🟩🟩⬛️⬛️🟩 | SLICE |   4
@@ -40,6 +40,7 @@ It uses data from puzzles 38-80, 1659-1727.
 ⬛️⬛️⬛️⬛️🟩 | GROIN | 120
 ⬛️🟨🟨🟨⬛️ | TAINT |  18
 ⬛️🟨🟨⬛️🟨 | RANGY |  44
+⬛️⬛️🟨🟨🟨 | TREED |  43
 🟨⬛️⬛️🟨⬛️ | TROUT |  32
 ⬛️🟨🟨⬛️⬛️ | MOLAR |  76
 ⬛️🟨⬛️⬛️🟨 | RIVEN |  98
