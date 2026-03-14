@@ -1,7 +1,8 @@
 # SLATE
 
 This table was assembled after the bot was "fixed" to handle LORIS-gate.
-It uses data from puzzles 38-80, 1659-1728.
+It uses data from puzzles 38-80, 1659-1729.
+A different easy guess was provided for 1729, it may indicate another change to the word list.
 
 Guess 1   | Easy  | Left
 ------------|-------|-----:
@@ -34,7 +35,7 @@ Guess 1   | Easy  | Left
 🟨⬛️🟨🟩⬛️ | PHONY |   6
 ⬛️🟨🟨🟩🟨 | DELTA |   1
 ⬛️⬛️⬛️🟩⬛️ | IRONY |  44
-⬛️🟨🟨⬛️🟩 | CORGI |  20
+⬛️🟨🟨⬛️🟩 | CORGI<br/>BANGS (1729) |  20
 🟨⬛️⬛️⬛️🟩 | GROUP |  33
 ⬛️⬛️🟨⬛️🟩 | CORGI |  38
 ⬛️⬛️⬛️⬛️🟩 | GROIN | 120
