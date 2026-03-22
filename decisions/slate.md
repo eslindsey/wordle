@@ -1,7 +1,7 @@
 # SLATE
 
 This table was assembled after the bot was "fixed" to handle LORIS-gate.
-It uses data from puzzles 38-80, 1659-1735.
+It uses data from puzzles 38-80, 1659-1736.
 A different easy guess was provided for 1729, it may indicate another change to the word list.
 
 Guess 1   | Easy  | Left
@@ -9,6 +9,7 @@ Guess 1   | Easy  | Left
 🟩🟩🟩🟩🟩 | -     |   0
 🟩🟩⬛️⬛️🟩 | SLICE |   4
 ⬛️⬛️🟩🟩🟩 | CARGO |   7
+🟩🟩⬛️⬛️⬛️ | HUNKY |  12
 🟩⬛️⬛️⬛️🟩 | CHIRP |  36
 🟩⬛️🟩🟨⬛️ | PRINT |  15
 ⬛️🟩⬛️⬛️🟩 | BIPOD |  16
