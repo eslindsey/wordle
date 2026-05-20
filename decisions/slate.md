@@ -38,8 +38,9 @@ Guess 1   | Easy  | Left
 ⬛️⬛️🟩🟨⬛️ | PRINT |  23
 ⬛️⬛️🟩⬛️🟨 | DERBY |  12
 ⬛️⬛️🟩⬛️⬛️ | CHURN |  60
-🟨⬛️🟨🟩⬛️ | PHONY |   6
 ⬛️🟨🟨🟩🟨 | DELTA |   1
+🟨⬛️🟨🟩⬛️ | PHONY |   6
+🟨⬛️⬛️🟩⬛️ | FORUM |   8
 ⬛️⬛️⬛️🟩⬛️ | IRONY |  44
 ⬛️🟨🟨⬛️🟩 | CORGI<br/>BANGS (1729) |  20
 🟨⬛️⬛️⬛️🟩 | GROUP |  33
