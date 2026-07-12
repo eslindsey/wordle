@@ -1,8 +1,8 @@
 # SLATE
 
 This table was assembled after the bot was "fixed" to handle LORIS-gate.
-It uses data from puzzles 38-80, 1659-1833.
-A different easy guess was provided for 1729, it may indicate another change to the word list.
+It uses data from puzzles 38-80, 1659-1846.
+A different easy guess was provided for 1729, it may indicate another change to the word list. The same happened on 1846.
 
 Guess 1   | Easy  | Left
 ------------|-------|-----:
@@ -64,7 +64,7 @@ Guess 1   | Easy  | Left
 ⬛️🟨🟨⬛️⬛️ | MOLAR |  76
 ⬛️🟨⬛️⬛️🟨 | RIVEN |  98
 ⬛️⬛️🟨🟨⬛️ | TAROT |  64
-⬛️⬛️🟨⬛️🟨 | RAMEN | 140
+⬛️⬛️🟨⬛️🟨 | RACED | 140
 ⬛️⬛️⬛️🟨🟨 | TITER | 119
 🟨⬛️⬛️⬛️⬛️ | HOKUM |  61
 ⬛️🟨⬛️⬛️⬛️ | DILLY | 106
