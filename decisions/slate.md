@@ -1,14 +1,14 @@
 # SLATE
 
 This table was assembled after the bot was "fixed" to handle LORIS-gate.
-It uses data from puzzles 38-80, 1659-1952.
+It uses data from puzzles 38-80, 1659-1967.
 A different easy guess was provided for 1729, it may indicate another change to the word list. The same happened on 1846.
 
 Guess 1   | Easy  | Left
 ------------|-------|-----:
 🟩🟩🟩🟩🟩 | -     |   0
 🟩🟩⬛️⬛️🟩 | SLICE |   4
-⬛️⬛️🟩🟩🟩 | CARGO |   7
+⬛️⬛️🟩🟩🟩 | CARGO<br/>CORGI |   7<br/>8
 🟩🟩⬛️⬛️⬛️ | HUNKY |  12
 🟩⬛️⬛️⬛️🟩 | CHIRP |  36
 🟩⬛️🟩⬛️⬛️ | PRANK |  31
