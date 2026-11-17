@@ -1,7 +1,7 @@
 # SLATE
 
 This table was assembled after the bot was "fixed" to handle LORIS-gate.
-It uses data from puzzles 38-80, 1659-1969.
+It uses data from puzzles 38-80, 1659-1977.
 A different easy guess was provided for 1729, it may indicate another change to the word list. The same happened on 1846.
 
 Guess 1   | Easy  | Left
@@ -40,6 +40,7 @@ Guess 1   | Easy  | Left
 ⬛️🟩🟨⬛️⬛️ | AGORA |  16
 ⬛️🟩⬛️⬛️🟨 | DEFER |  21
 ⬛️🟩⬛️⬛️⬛️ | BIPOD |  50
+🟨⬛️🟩🟨⬛️ | TORCH |   7
 ⬛️🟨🟩🟨⬛️ | TRAIL |   2
 🟨⬛️🟩⬛️⬛️ | CURBS |  14
 ⬛️🟨🟩⬛️⬛️ | BRICK |  12
