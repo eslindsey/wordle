@@ -1,7 +1,7 @@
 # SLATE
 
 This table was assembled after the bot was "fixed" to handle LORIS-gate.
-It uses data from puzzles 38-80, 1659-1980.
+It uses data from puzzles 38-80, 1659-1981.
 A different easy guess was provided for 1729, it may indicate another change to the word list. The same happened on 1846.
 
 Guess 1   | Easy  | Left
@@ -27,6 +27,7 @@ Guess 1   | Easy  | Left
 🟩🟨🟨⬛️⬛️ | HYDRO |   9
 🟩🟨⬛️⬛️🟨 | IMPEL |   7
 🟩⬛️🟨🟨⬛️ | PRIVY |  10
+🟩⬛️⬛️🟨🟨 | STREP |  17
 🟩🟨⬛️⬛️⬛️ | CHILL |  19
 🟩⬛️🟨⬛️⬛️ | CURVY |  22
 🟩⬛️⬛️🟨⬛️ | PINOT |  43
